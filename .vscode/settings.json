@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.jinja": "yaml",
+        "*.md": "markdown",
+        "bashrc": "shellscript",
+        "*.service": "plaintext",
+        "testdb.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+}
